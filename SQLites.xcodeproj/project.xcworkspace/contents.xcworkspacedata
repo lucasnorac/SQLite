@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SQLite.xcodeproj">
+      location = "self:/Users/lucascaronalbarello/Desktop/udemy/IOsapp/SQLite/SQLites.xcodeproj">
    </FileRef>
 </Workspace>
